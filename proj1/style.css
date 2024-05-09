@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+script{
+    display: none;
+}
+body{
+    font-family: "Helventica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html{
+    -webkit-text-size-adjust: 100%;
+}
+*:before, *:after{
+    box-sizing: border-box;
+}
+
